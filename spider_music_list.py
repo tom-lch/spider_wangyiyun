@@ -5,6 +5,7 @@ from config import headers
 
 def get_music_lists(url):
     time.sleep(1)
+    # 发起请求获取响应
     response = requests.get(url=url, headers=headers).text
     soup = BeautifulSoup(response, 'html.parser')
     # 找到所有的a标签以及包含的信息
