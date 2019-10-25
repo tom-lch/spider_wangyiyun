@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="286b881d-a484-46ba-b213-b54fb3d5c48d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Django/agri_cultural/UserAndAgri/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/agri_cultural/static/js/Jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/agri_cultural/templates/UserAndAgri/00.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/agri_cultural/templates/UserAndAgri/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/agri_cultural/templates/UserAndAgri/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/agri_cultural/templates/UserAndAgri/regist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/agri_cultural/templates/UserAndAgri/userlogin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/aixf/GPAXF/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/aixf/GPAXF/views_constart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/aixf/GPAXF/views_helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/aixf/middleware/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/aixf/middleware/middleware.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/aixf/static/axf/main/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/aixf/static/axf/user/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/aixf/static/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/aixf/static/js/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/aixf/static/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/aixf/templates/axf/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/aixf/templates/axf/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/aixf/templates/axf/market.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/aixf/templates/axf/mine.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/aixf/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/aixf/templates/base_main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/aixf/templates/baseuser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/aixf/templates/user/activation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/aixf/templates/user/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/aixf/templates/user/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/day0917/.idea/day0917.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/day0917/.idea/dictionaries/samuel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/day0917/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/day0917/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/day0917/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/day0917/App/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/day0917/myapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/day0917/templates/App/getperson.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/douban/.idea/dictionaries/samuel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/douban/.idea/douban.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/douban/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/douban/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/douban/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/douban/douban.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/library/functional_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/study/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/study/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/study/.idea/dictionaries/samuel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/study/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/study/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/study/.idea/study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/study/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/study/UserApp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/study/templates/UserApp/h1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test0805/userapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test0809/axf/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test0809/templates/axf/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test0809/templates/axf/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test0809/templates/axf/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test0809/templates/axf/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test0809/templates/axf/market.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test0809/templates/axf/mine.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test0917/Two/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test0917/app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test0917/templates/app/app.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test0917/templates/app/students.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test0917/templates/get_student.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test0919/myapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test0919/templates/myapp/getgrade.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test09191/myapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test09191/templates/myapp/getusers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test09192/app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test09193/myapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test09193/templates/myapp/getgrade.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test09193/templates/myapp/getstudent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test0919template/App/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test0919template/templates/App/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test0919template/templates/App/student.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test09200/One/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test09200/templates/One/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test09200/templates/One/createstudent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test09200/templates/One/getgrade.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test09200/templates/One/getstudent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test09200/templates/three/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test09200/templates/three/addsucess.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test09200/templates/three/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test09200/templates/three/getditial.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test09200/templates/three/getgrade.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test09200/templates/three/getstudent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test09200/three/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test09230/Five/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test09230/Four/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test09230/templates/Five/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test09230/templates/Five/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test09230/templates/Four/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test09230/templates/Four/mine.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test09230/templates/Four/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test09230/templates/three/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test09230/templates/three/mine.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test09230/templates/three/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test09230/three/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test1009/App/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/test1009/templates/editblog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bilibili/bda/bilibili_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bilibili/bda/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bilibili/bda/store_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/get_music_liked_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/get_music_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../爬虫/weibo/weibo/weibo/spiders/get_text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../爬虫/weibo/weibo/weibo/spiders/get_weibo_id.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chromedriver_mac64.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/01pandas学习笔记.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/pandas-cookbook-master/.dockerignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/pandas-cookbook-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/pandas-cookbook-master/.jupyter/jupyter_notebook_config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/pandas-cookbook-master/111.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/pandas-cookbook-master/Dockerfile-Local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/pandas-cookbook-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/pandas-cookbook-master/cookbook/A quick tour of IPython Notebook.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/pandas-cookbook-master/cookbook/Chapter 1 - Reading from a CSV.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/pandas-cookbook-master/cookbook/Chapter 2 - Selecting data &amp; finding the most common complaint type.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/pandas-cookbook-master/cookbook/Chapter 3 - Which borough has the most noise complaints (or, more selecting data).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/pandas-cookbook-master/cookbook/Chapter 4 - Find out on which weekday people bike the most with groupby and aggregate.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/pandas-cookbook-master/cookbook/Chapter 5 - Combining dataframes and scraping Canadian weather data.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/pandas-cookbook-master/cookbook/Chapter 6 - String Operations- Which month was the snowiest.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/pandas-cookbook-master/cookbook/Chapter 7 - Cleaning up messy data.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/pandas-cookbook-master/cookbook/Chapter 8 - How to deal with timestamps.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/pandas-cookbook-master/cookbook/Chapter 9 - Loading data from SQL databases.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/pandas-cookbook-master/cookbook/images/function-completion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/pandas-cookbook-master/cookbook/images/tab-4-times.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/pandas-cookbook-master/cookbook/images/tab-once.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/pandas-cookbook-master/cookbook/images/tab-twice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/pandas-cookbook-master/data/311-service-requests.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/pandas-cookbook-master/data/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/pandas-cookbook-master/data/bikes.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/pandas-cookbook-master/data/popularity-contest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/pandas-cookbook-master/data/weather_2012.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/pandas-cookbook-master/data/weather_2012.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/pandas-cookbook-master/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/pandas-cookbook-master/runtime.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../phantomjs-2.1.1-macosx.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scrapy_test/Douyu/Douyu/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../scrapy_test/Douyu/Douyu/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scrapy_test/Douyu/Douyu/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../scrapy_test/Douyu/Douyu/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scrapy_test/Douyu/Douyu/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../scrapy_test/Douyu/Douyu/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scrapy_test/Douyu/Douyu/spiders/douoyu.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../scrapy_test/Douyu/Douyu/spiders/douoyu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scrapy_test/Jav/Jav/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../scrapy_test/Jav/Jav/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../爬虫/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../爬虫/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/read_free.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../爬虫/read_free.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/scrapy框架/多线程爬取readfree.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../爬虫/scrapy框架/多线程爬取readfree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/apic25091_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/apic25103_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/apic25115_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/apic25127_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/apic25151_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/apic25247_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/bpic2001_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/bpic2241_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/fpic10012_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/fpic10031_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/fpic10114_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/fpic10161_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/fpic10296_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/fpic9795_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/fpic9976_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/hpic408_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/wpic524_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/wpic629_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic10097_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic10110_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic10132_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic10251_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic10341_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic10393_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic10556_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic10627_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic10737_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic10976_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic10980_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic11053_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic11068_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic11174_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic11185_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic11385_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic11476_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic11479_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic11535_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic11588_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic11645_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic11730_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic11737_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic11801_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic11876_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic11935_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic12002_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic12034_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic12055_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic12117_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic12206_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic12225_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic12241_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic12254_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic12283_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic12319_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic1233_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic12382_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic12429_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic12450_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic12505_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic12559_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic12580_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic12637_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic12655_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic12709_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic12721_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic12793_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic12921_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic12973_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic13004_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic1304_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic13068_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic13087_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic13131_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic13242_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic13256_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic13424_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic13487_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic13589_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic13628_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic13668_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic13710_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic13772_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic13941_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic14042_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic14131_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic14178_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic14185_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic14298_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic14358_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic14425_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic14458_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic14479_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic1454_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic14568_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic14603_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic14638_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic14802_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic14872_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic14965_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic15059_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic15084_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic15247_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic15324_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic15420_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic15469_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic15567_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic15608_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic15786_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic15891_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic15920_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic16049_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic16135_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic16191_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic16240_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic16394_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic16406_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic16566_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic16638_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic16686_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic16786_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic16807_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic16817_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic16857_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic16889_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic16921_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic16949_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic17052_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic17175_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic17202_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic1725_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic17322_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic17359_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic17378_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic1992_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic2078_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic2319_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic2339_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic2372_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic2397_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic2414_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic2419_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic2698_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic2784_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic2853_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic2865_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic2936_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic2961_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic3101_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic3181_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic3261_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic3626_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic3704_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic3795_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic3870_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic3926_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic3939_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic4002_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic4083_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic4154_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic4244_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic4327_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic4473_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic4562_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic4601_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic4627_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic4652_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic4701_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic4729_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic4823_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic4856_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic4920_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic4968_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic4976_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5004_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5038_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5078_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5157_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5181_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5212_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5238_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5249_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5284_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5320_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5351_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5357_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5386_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5422_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5455_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5458_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5494_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5527_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5530_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5566_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5602_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5638_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5674_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5707_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5746_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5782_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5823_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5829_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5862_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5898_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5934_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5967_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic5971_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic6075_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic6078_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic6148_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic6228_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic6255_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic6257_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic6329_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic6366_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic6403_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic6434_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic6437_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic6473_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic6679_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic6690_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic6733_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic6760_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic6804_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic6851_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic6867_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic6916_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic6939_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic6957_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic6982_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic7000_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic7026_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic7041_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic7053_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic7069_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic7141_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic7239_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic7269_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic7278_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic731_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic7415_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic7442_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic7452_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic7509_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic7522_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic7532_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic7592_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic7629_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic7659_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic7711_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic7741_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic7782_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic7818_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic7846_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic7854_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic788_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic7926_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic7972_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic8071_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic8192_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic8253_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic8287_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic8335_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic8433_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic8485_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic8581_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic8635_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic8664_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic8863_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic8948_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic9085_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic9256_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic9397_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic940_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic9637_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic963_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic9799_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic9814_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic9902_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic9965_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/xinggan/zzpic9998_s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/多线程爬虫.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../爬虫/多线程爬虫.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/笔记.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../爬虫/笔记.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/get_music_liked_info.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="394">
+              <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spider_music_detail.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#14#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/port1.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="22" selection-start-column="22" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/kugou.py" />
+        <option value="$PROJECT_DIR$/../../bilibili/bda/config.py" />
+        <option value="$PROJECT_DIR$/douban.py" />
+        <option value="$PROJECT_DIR$/music_lists.csv" />
+        <option value="$PROJECT_DIR$/mm.py" />
+        <option value="$PROJECT_DIR$/spider.py" />
+        <option value="$PROJECT_DIR$/misic_lists_detial.csv" />
+        <option value="$PROJECT_DIR$/get_music_list.py" />
+        <option value="$PROJECT_DIR$/get_total_music.py" />
+        <option value="$PROJECT_DIR$/get_music_detial.py" />
+        <option value="$PROJECT_DIR$/get_params_encSecKey.py" />
+        <option value="$PROJECT_DIR$/get_music_detail.py" />
+        <option value="$PROJECT_DIR$/spider_music_list.py" />
+        <option value="$PROJECT_DIR$/spider_total_music.py" />
+        <option value="$PROJECT_DIR$/get_music_lists.py" />
+        <option value="$PROJECT_DIR$/totle_music_liked_num.csv" />
+        <option value="$PROJECT_DIR$/error.csv" />
+        <option value="$PROJECT_DIR$/total_music_liked_num.csv" />
+        <option value="$PROJECT_DIR$/music_lists_detail.csv" />
+        <option value="$PROJECT_DIR$/port.csv" />
+        <option value="$PROJECT_DIR$/port1.csv" />
+        <option value="$PROJECT_DIR$/get_music_liked_info.py" />
+        <option value="$PROJECT_DIR$/spider_music_detail.py" />
+        <option value="$PROJECT_DIR$/config.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/dictionaries/samuel.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="822" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.get_music_liked_info">
+    <configuration name="get_music_detail" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_music_detail.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_music_liked_info" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_music_liked_info.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spider_music_detail" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider_music_detail.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.get_music_liked_info" />
+        <item itemvalue="Python.spider_music_detail" />
+        <item itemvalue="Python.get_music_detail" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="286b881d-a484-46ba-b213-b54fb3d5c48d" name="Default Changelist" comment="" />
+      <created>1571750053723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571750053723</updated>
+      <workItem from="1571750056343" duration="42705000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="42705000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.21030043" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32409638" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" weight="0.32891566" />
+      <window_info anchor="bottom" id="Python Console" order="5" weight="0.32891566" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.5746988" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="SciView" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/spider$get_music_liked_info.coverage" NAME="get_music_liked_info Coverage Results" MODIFIED="1571967326173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$spider_music_detail.coverage" NAME="spider_music_detail Coverage Results" MODIFIED="1571902941249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$get_music_detail.coverage" NAME="get_music_detail Coverage Results" MODIFIED="1571890483240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/36d46834432610ccfc7e800c3864d147/Message/MessageTemp/1c313cc47c7f0b7f1b2628ab5d732235/File/kugou.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kugou.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-251">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../bilibili/bda/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="7" selection-start-line="5" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/douban.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playlist.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/bs4/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="117" column="14" lean-forward="true" selection-start-line="117" selection-start-column="14" selection-end-line="117" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-434063577/lxml/etree/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="216" column="40" lean-forward="true" selection-start-line="216" selection-start-column="40" selection-end-line="216" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="26" column="36" lean-forward="true" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/music_lists.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111650">
+          <caret line="5075" lean-forward="true" selection-start-line="5075" selection-end-line="5075" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_music_detial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#14#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_total_music.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_params_encSecKey.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_music_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_music_detail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="46" column="14" lean-forward="true" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
+          <folding>
+            <element signature="e#14#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/misic_lists_detial.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider_params_encSecKey.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/totle_music_liked_num.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider_total_music.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_music_lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/music_lists_0_1500.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-122566">
+          <caret line="884" column="41" selection-start-line="884" selection-start-column="41" selection-end-line="884" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider_music_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/music_lists_detail.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1272">
+          <caret line="74735" column="18" selection-start-line="74735" selection-start-column="18" selection-end-line="74735" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/port.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/error.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/port1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/total_music_liked_num.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="75019" lean-forward="true" selection-start-line="75019" selection-end-line="75019" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider_music_detail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#14#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_music_liked_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
