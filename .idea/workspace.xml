@@ -105,9 +105,6 @@
       <change afterPath="$PROJECT_DIR$/../../bilibili/bda/bilibili_user.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../bilibili/bda/config.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../bilibili/bda/store_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/get_music_liked_info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/get_music_lists.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../爬虫/weibo/weibo/weibo/spiders/get_text.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../爬虫/weibo/weibo/weibo/spiders/get_weibo_id.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../chromedriver_mac64.zip" beforeDir="false" />
@@ -142,6 +139,12 @@
       <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/pandas-cookbook-master/requirements.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../pandas学习笔记/pandas-cookbook-master/runtime.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../phantomjs-2.1.1-macosx.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/data_analysis-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/data_analysis-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data_analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_music_liked_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_music_liked_info.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider_music_detail.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider_music_detail.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../scrapy_test/Douyu/Douyu/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../scrapy_test/Douyu/Douyu/items.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../scrapy_test/Douyu/Douyu/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../scrapy_test/Douyu/Douyu/pipelines.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../scrapy_test/Douyu/Douyu/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../scrapy_test/Douyu/Douyu/settings.py" afterDir="false" />
@@ -445,8 +448,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/get_music_liked_info.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+            <state relative-caret-position="330">
+              <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -455,31 +458,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spider_music_detail.py">
+        <entry file="file://$PROJECT_DIR$/port2.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#14#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/port1.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="22" selection-start-column="22" selection-end-column="36" />
+            <state relative-caret-position="154">
+              <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -494,7 +476,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -520,9 +502,12 @@
         <option value="$PROJECT_DIR$/music_lists_detail.csv" />
         <option value="$PROJECT_DIR$/port.csv" />
         <option value="$PROJECT_DIR$/port1.csv" />
+        <option value="$PROJECT_DIR$/config.py" />
+        <option value="$PROJECT_DIR$/total1025.csv" />
         <option value="$PROJECT_DIR$/get_music_liked_info.py" />
         <option value="$PROJECT_DIR$/spider_music_detail.py" />
-        <option value="$PROJECT_DIR$/config.py" />
+        <option value="$PROJECT_DIR$/total_music_liked_num2.csv" />
+        <option value="$PROJECT_DIR$/port2.csv" />
       </list>
     </option>
   </component>
@@ -535,6 +520,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="244" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="822" />
@@ -565,7 +551,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
@@ -667,22 +660,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571750053723</updated>
-      <workItem from="1571750056343" duration="42705000" />
+      <workItem from="1571750056343" duration="43541000" />
+      <workItem from="1571987384409" duration="1725000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42705000" />
+    <option name="totallyTimeSpent" value="45266000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.21030043" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.21316166" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32409638" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.28554216" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Version Control" order="4" weight="0.32891566" />
@@ -705,7 +699,7 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/spider$get_music_liked_info.coverage" NAME="get_music_liked_info Coverage Results" MODIFIED="1571967326173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider$get_music_liked_info.coverage" NAME="get_music_liked_info Coverage Results" MODIFIED="1571989150841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/spider$spider_music_detail.coverage" NAME="spider_music_detail Coverage Results" MODIFIED="1571902941249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/spider$get_music_detail.coverage" NAME="get_music_detail Coverage Results" MODIFIED="1571890483240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -720,16 +714,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kugou.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-251">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/kugou.py" />
     <entry file="file://$PROJECT_DIR$/../../bilibili/bda/config.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -737,23 +722,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/douban.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="64" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/playlist.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/douban.py" />
+    <entry file="file://$PROJECT_DIR$/playlist.csv" />
     <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/bs4/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-153">
@@ -768,89 +738,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="26" column="36" lean-forward="true" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/music_lists.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111650">
-          <caret line="5075" lean-forward="true" selection-start-line="5075" selection-end-line="5075" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/get_music_detial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#14#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/get_total_music.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/get_params_encSecKey.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/get_music_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/get_music_detail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="46" column="14" lean-forward="true" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
-          <folding>
-            <element signature="e#14#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/misic_lists_detial.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mm.py" />
+    <entry file="file://$PROJECT_DIR$/spider.py" />
+    <entry file="file://$PROJECT_DIR$/music_lists.csv" />
+    <entry file="file://$PROJECT_DIR$/get_music_detial.py" />
+    <entry file="file://$PROJECT_DIR$/get_total_music.py" />
+    <entry file="file://$PROJECT_DIR$/get_params_encSecKey.py" />
+    <entry file="file://$PROJECT_DIR$/get_music_list.py" />
+    <entry file="file://$PROJECT_DIR$/get_music_detail.py" />
+    <entry file="file://$PROJECT_DIR$/misic_lists_detial.csv" />
     <entry file="file://$PROJECT_DIR$/spider_params_encSecKey.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/totle_music_liked_num.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/totle_music_liked_num.csv" />
     <entry file="file://$PROJECT_DIR$/spider_total_music.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
@@ -888,58 +788,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/music_lists_detail.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1272">
-          <caret line="74735" column="18" selection-start-line="74735" selection-start-column="18" selection-end-line="74735" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/port.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/port.csv" />
     <entry file="file://$PROJECT_DIR$/error.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/port1.csv">
+    <entry file="file://$PROJECT_DIR$/total_music_liked_num.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="36" />
+        <state relative-caret-position="2104">
+          <caret line="72776" column="38" lean-forward="true" selection-start-line="72776" selection-start-column="14" selection-end-line="72776" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/total_music_liked_num.csv">
+    <entry file="file://$PROJECT_DIR$/config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="75019" lean-forward="true" selection-start-line="75019" selection-end-line="75019" />
+        <state relative-caret-position="205">
+          <caret line="22" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sub_total1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3210" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/total1025.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9772">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/music_lists_detail.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-518904">
+          <caret line="74735" column="18" selection-start-line="74735" selection-start-column="18" selection-end-line="74735" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spider_music_detail.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="282">
+          <caret line="27" column="11" lean-forward="true" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
           <folding>
             <element signature="e#14#25#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.py">
+    <entry file="file://$PROJECT_DIR$/total_music_liked_num1.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="246334">
+          <caret line="11197" selection-start-line="11197" selection-end-line="11197" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/port1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="761">
+          <caret line="23289" column="21" selection-start-line="23289" selection-start-column="21" selection-end-line="23289" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/total_music_liked_num2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/port2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/get_music_liked_info.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        <state relative-caret-position="330">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>

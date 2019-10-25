@@ -9,7 +9,7 @@ import spider_music_detail
 def get_detail():
     L = []
     print('读入数据')
-    data = pd.read_csv('port1.csv', names=['music_url', 'music_name', 'music_other'])
+    data = pd.read_csv('port2.csv', names=['music_url', 'music_name', 'music_other'])
     print(data.head())
     for url in data['music_url']:
         print(url)
@@ -22,6 +22,6 @@ def get_detail():
         f.write(str(L))
 
 if __name__ == '__main__':
-    print('开始执行')
+    print("开始执行")
     get_detail()
     print('OK')
