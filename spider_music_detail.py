@@ -9,7 +9,6 @@ from config import headers
 
 def get_detail(url, music_id):
     response = requests.get(url=url, headers=headers).text
-    print(response)
     soup = BeautifulSoup(response, 'html.parser')
     # 获取歌手名
     songer = soup.select('.des')[1].get_text()
@@ -47,5 +46,6 @@ def get_detail(url, music_id):
 
 def main(url):
     music_id = url[11:]
+    print(music_id)
     url = 'https://music.163.com' + url
     get_detail(url, music_id)
