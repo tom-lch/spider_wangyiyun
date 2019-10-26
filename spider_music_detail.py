@@ -39,7 +39,7 @@ def get_detail(url, music_id):
     # 打印
     print(songer, desc_name, music_name, music_id, comment_num, likedCount_num)
     # 将获取的数据写到 totle_music_liked_num.csv
-    with open('total_music_liked_num3.csv', 'a+', encoding='utf-8') as f:
+    with open('total_music_liked_num.csv', 'a+', encoding='utf-8') as f:
         f.write(songer + ',' + desc_name + ',' + music_name + ',' + music_id + ',' + str(comment_num) + ',' + str(
             likedCount_num) + '\n')
 

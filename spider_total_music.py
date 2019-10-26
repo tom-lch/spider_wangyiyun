@@ -5,11 +5,11 @@ from config import headers_get_lists
 
 
 def get_music(url):
-    time.sleep(0.5)
+    time.sleep(0.1)
     try:
         response = requests.get(url=url, headers=headers_get_lists).text
         soup = BeautifulSoup(response, 'html.parser')
-        a_lists = soup.select('.m-sglst a')
+        a_lists = soup.select('.m-sglst .m-sgitem')
         for a in a_lists:
             try:
                 music_url = a['href']
@@ -22,10 +22,9 @@ def get_music(url):
             except Exception as e:
                 print('出错了, '+ a)
     except Exception as e:
-        print('出错了, '+ url)
+        print('出错了, ')
 
 
-# 获取歌单中歌曲的名称和URL
 def main(url):
     url = 'https://music.163.com' + url
     get_music(url)
